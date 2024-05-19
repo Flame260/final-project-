@@ -221,7 +221,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2247776261034885755}
   m_Layer: 0
-  m_Name: level 1
+  m_Name: WORLD EDit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
