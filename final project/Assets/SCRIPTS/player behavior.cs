@@ -26,7 +26,7 @@ public class playerbehavior : MonoBehaviour
         _vInput = Input.GetAxis("Vertical") * MoveSpeed;
         _hInput = Input.GetAxis("Horizontal") * RotateSpeed;
         //JUMPING!!!!!!!
-        _isJumping |= Input.GetKeyDown(KeyCode.J);
+        _isJumping |= Input.GetKeyDown(KeyCode.Space);
 
     }
 
