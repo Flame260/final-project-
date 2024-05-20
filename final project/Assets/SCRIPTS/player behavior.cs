@@ -27,7 +27,7 @@ public class playerbehavior : MonoBehaviour
         _hInput = Input.GetAxis("Horizontal") * RotateSpeed;
         //JUMPING!!!!!!!
         _isJumping |= Input.GetKeyDown(KeyCode.Space);
-
+       
     }
 
     // Update is called once per frame
